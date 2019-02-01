@@ -6,11 +6,11 @@ namespace MENU
 {
     public class Menu
     {
-        public string Action;
-        private int count;
         public string name;
-        private string[] OptionNumbers;
         public List<Menu> Options;
+        public string Action;
+        private string[] OptionNumbers;
+        private int count;
 
         public void Show()
         {
@@ -34,9 +34,12 @@ namespace MENU
                 Console.WriteLine(count + " ) " + o.name);
             }
 
-            while (!OptionNumbers.Contains(Action)) Action = Console.ReadLine();
+            while (!OptionNumbers.Contains(Action))
+            {
+                Action = Console.ReadLine();
+            }
 
-            Action = Options[int.Parse(Action) - 1].name;
+            Action = Options[Int32.Parse(Action) - 1].name;
         }
     }
 }

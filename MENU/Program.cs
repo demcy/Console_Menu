@@ -3,18 +3,18 @@ using System.Linq;
 
 namespace MENU
 {
-    internal class Program
+    class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
             Menu refMenu;
-            var menuHistory = new List<Menu>();
+            List<Menu> menuHistory = new List<Menu>();
 
-            var randomMenu = new DerivedMenu("RANDOM");
-            var manualMenu = new DerivedMenu("MANUAL");
-            var createMenu = new DerivedMenu("CREATE", new List<Menu> {randomMenu, manualMenu});
-            var deleteMenu = new DerivedMenu("DELETE");
-            var startMenu = new DerivedMenu("MENU", new List<Menu> {createMenu, deleteMenu});
+            DerivedMenu randomMenu = new DerivedMenu("RANDOM");
+            DerivedMenu manualMenu = new DerivedMenu("MANUAL");
+            DerivedMenu createMenu = new DerivedMenu("CREATE", new List<Menu>() {randomMenu, manualMenu});
+            DerivedMenu deleteMenu = new DerivedMenu("DELETE");
+            DerivedMenu startMenu = new DerivedMenu("MENU", new List<Menu>() {createMenu, deleteMenu});
 
 
             refMenu = startMenu;
