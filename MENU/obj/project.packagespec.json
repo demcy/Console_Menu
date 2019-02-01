@@ -1,0 +1,43 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Aleksandr\\RiderProjects\\Console_Menu\\MENU\\MENU.csproj",
+    "projectName": "MENU",
+    "projectPath": "C:\\Users\\Aleksandr\\RiderProjects\\Console_Menu\\MENU\\MENU.csproj",
+    "outputPath": "C:\\Users\\Aleksandr\\RiderProjects\\Console_Menu\\MENU\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

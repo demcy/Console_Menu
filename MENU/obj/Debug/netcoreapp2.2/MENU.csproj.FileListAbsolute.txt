@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\bin\Debug\netcoreapp2.2\MENU.deps.json
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\bin\Debug\netcoreapp2.2\MENU.runtimeconfig.json
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\bin\Debug\netcoreapp2.2\MENU.runtimeconfig.dev.json
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\bin\Debug\netcoreapp2.2\MENU.dll
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\bin\Debug\netcoreapp2.2\MENU.pdb
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\obj\Debug\netcoreapp2.2\MENU.csprojAssemblyReference.cache
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\obj\Debug\netcoreapp2.2\MENU.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\obj\Debug\netcoreapp2.2\MENU.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\obj\Debug\netcoreapp2.2\MENU.AssemblyInfo.cs
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\obj\Debug\netcoreapp2.2\MENU.dll
+C:\Users\Aleksandr\RiderProjects\Console_Menu\MENU\obj\Debug\netcoreapp2.2\MENU.pdb
