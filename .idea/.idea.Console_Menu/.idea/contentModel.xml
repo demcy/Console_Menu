@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Aleksandr\.Rider2018.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Aleksandr\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Aleksandr\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Console_Menu.-391495530.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Aleksandr\RiderProjects\Console_Menu" t="IncludeFlat">
+      <e p="Console_Menu.sln" t="IncludeFlat" />
+      <e p="MENU" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DerivedMenu.cs" t="Include" />
+        <e p="menu.cs" t="Include" />
+        <e p="MENU.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MENU.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
