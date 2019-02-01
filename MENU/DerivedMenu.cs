@@ -8,10 +8,11 @@ namespace MENU
         {
             name = n;
         }
+
         public DerivedMenu(string n, List<Menu> options)
         {
             name = n;
-            
+
             Options = options;
         }
     }
